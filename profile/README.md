@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ravik-labs/ravik-labs/main/logo.png" alt="Ravik Labs Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/ravik-labs/ravik-labs/main/profile/logo.png" alt="Ravik Labs Logo" width="200"/>
   <h1>Ravik Labs</h1>
   <p><em>Bold Products for a Brighter Future</em></p>
   <p>
